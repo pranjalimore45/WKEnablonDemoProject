@@ -1,9 +1,10 @@
-Welcome to Git!********
-Hello world !!********
+Welcome to Git!!!!!!
+Hello world !!!!!
+>>>>>>> bug456
 Day1: test commit changes....
 
 DAy2:Branching
 
 Bug123(){
-
+fsaghsxahs
 }
