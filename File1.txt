@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome- to Git!!!!!!
 Hello- world !!!!!
 >>>>>>> bug456
@@ -10,3 +11,18 @@ fsaghsxahs-
 }
 
 checking stash- "hsjhgsjhsw"-
+=======
+aWelcome to Git!!!!!!
+aHello world !!!!!
+a>>>>>>> bug456
+aDay1: test commit changes....
+
+aDAy2:Branching
+
+aBug123(){
+afsaghsxahs
+a}
+
+achecking stash- "hsjhgsjhsw"
+worked on CR2, modifify all sentences
+>>>>>>> CR2
