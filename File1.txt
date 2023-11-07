@@ -1,12 +1,13 @@
-Welcome to Git!!!!!!
-Hello world !!!!!
->>>>>>> bug456
-Day1: test commit changes....
+aWelcome to Git!!!!!!
+aHello world !!!!!
+a>>>>>>> bug456
+aDay1: test commit changes....
 
-DAy2:Branching
+aDAy2:Branching
 
-Bug123(){
-fsaghsxahs
-}
+aBug123(){
+afsaghsxahs
+a}
 
-checking stash- "hsjhgsjhsw"
+achecking stash- "hsjhgsjhsw"
+worked on CR2, modifify all sentences
