@@ -19,3 +19,8 @@ worked on CR2, modifify all sentences
 
 
 latest changes chceking in git
+<<<<<<< HEAD
+=======
+
+ashsjhhj
+>>>>>>> 678e3b5 (added one line loaclly in Fiile1.txt)
